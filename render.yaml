@@ -1,7 +1,7 @@
 databases:
-  - name: my-first-app-demo
-    databaseName: my-first-app-demo
-    user: my-first-app-demo
+  - name: my_first_app_demo
+    databaseName: my_first_app_demo
+    user: my_first_app_demo
     plan: free
 
 services:
