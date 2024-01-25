@@ -1,3 +1,9 @@
+GIT
+  remote: git@github.com:enochtamulonis/render-build-setup-gem.git
+  revision: d4181808f4aa9d658aece45c3bdc845208693614
+  specs:
+    render-build-setup (0.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -285,6 +291,7 @@ DEPENDENCIES
   puma (>= 5.0)
   rails (~> 7.1.2)
   redis (>= 4.0.1)
+  render-build-setup!
   selenium-webdriver
   sprockets-rails
   stimulus-rails
